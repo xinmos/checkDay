@@ -13,7 +13,7 @@ $.ajax({
             password: "密码"
         },
     success: function success(data) {
-        console.log(data.data);
+        //console.log(data.data);
         //2.提交数据
         $.ajax({
             type: 'POST',
@@ -30,7 +30,7 @@ $.ajax({
                       ps: "0"
                   },
             success: function success(data) {
-                console.log(data);
+                //console.log(data);
                 console.log("打卡成功");
             },
             dataType: 'json'
