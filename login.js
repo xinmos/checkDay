@@ -20,7 +20,7 @@ $.ajax({
             url: "https://www.dxever.com/Wxminiprog/Disease/addLog",
             data: {
                       token: data.data,
-                      curlocation: "丰城市",
+                      curlocation: "你的城市",
                       goout: "0",
                       hp: "0",
                       ncp: "0",
