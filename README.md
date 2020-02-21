@@ -2,7 +2,7 @@
 大学印象每日健康报送自动打卡
 
 ### 准备工作
-1. 复制代码修改姓名、密码
+1. 复制代码修改姓名、密码、城市
 2. [安装nodejs](https://www.runoob.com/nodejs/nodejs-install-setup.html)
 3. 执行以下代码安装依赖
 ```
