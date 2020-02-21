@@ -25,4 +25,4 @@ npm install jsdom
 |30|6|*|*|0|ls|指定每星期日的6:30执行ls命令[注：0表示星期天，1表示星期1]|
 
 - 查看任务 crontab -l
-##### [更多corn知识](http://blogjava.net/freeman1984/archive/2010/09/23/332715.html)
+##### [更多cron知识](http://blogjava.net/freeman1984/archive/2010/09/23/332715.html)
