@@ -43,7 +43,7 @@ npm install jsdom
 2. 填写内容（路径为个人实际路径）
 
    ```
-   node c:\user\desktop\check.bat
+   node c:\user\desktop\check.js
    ```
 
 3. 修改文件后缀名：check.bat
