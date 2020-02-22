@@ -27,11 +27,11 @@ $.ajax({
                       isncp: "0",
                       touchncp: "0",
                       hubei: "0",
-                      ps: "0"
+                      ps: ""
                   },
             success: function success(data) {
                 //console.log(data);
-                console.log("打卡成功");
+                console.log(data.meta.message);
             },
             dataType: 'json'
         });
