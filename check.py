@@ -12,12 +12,12 @@ checkParams = {
 		  "token": token,
 		  "curlocation": "你的住址",
 		  "goout": "0",
-          "hp": "0",
-          "ncp": "0",
-          "isncp": "0",
-          "touchncp": "0",
-          "hubei": "0",
-          "ps": ""
+                  "hp": "0",
+                  "ncp": "0",
+                  "isncp": "0",
+                  "touchncp": "0",
+                  "hubei": "0",
+                  "ps": ""
     }
 r2 = requests.post(urlCheck, data=checkParams, headers=headers)
 
