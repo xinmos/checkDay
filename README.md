@@ -4,6 +4,8 @@
 本项目仅供学习交流，如有任何侵权行为，一经联系马上删除
 
 ### 准备工作
+
+#### node实现
 1. 复制代码修改姓名、密码、城市
 2. [安装nodejs](https://www.runoob.com/nodejs/nodejs-install-setup.html)
 3. 执行以下代码安装依赖
@@ -11,6 +13,9 @@
 npm install jquery
 npm install jsdom
 ```
+
+#### python实现
+1. 安装模块requests
 
 ### 系统自动执行
 #### linux系统下
