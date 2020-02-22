@@ -17,7 +17,7 @@ checkParams = {
           "isncp": "0",
           "touchncp": "0",
           "hubei": "0",
-          "ps": "0"
+          "ps": ""
     }
 r2 = requests.post(urlCheck, data=checkParams, headers=headers)
 
